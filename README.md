@@ -4,18 +4,14 @@ CODE FOR TO FIGURE OUT WHETHER IT IS DD/MM/YYYY OR MM/DD/YYYY IS:
 
 
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-class Codechef
-{
-
+       import java.util.*;
+       import java.lang.*;
+       import java.io.*;
+       class Codechef
+      {
 	public static void main (String[] args) throws java.lang.Exception
-	
 	{
-	
 		// your code goes here
-		
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();
 		//creating a string.
@@ -41,4 +37,4 @@ class Codechef
 		    
 		}
 	}
-}
+	}
